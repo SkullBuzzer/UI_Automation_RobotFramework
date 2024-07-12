@@ -1,0 +1,11 @@
+USER_CREDENTIALS:
+      username: "standard_user"
+      password: "secret_sauce"
+
+PRODUCT_DETALS:
+      product_name: "Sauce Labs Backpack"
+
+CUSTOMER_INFO:
+      first_name: "Gurubasava"
+      last_name: "Mali patil"
+      postal_code: "560026"
