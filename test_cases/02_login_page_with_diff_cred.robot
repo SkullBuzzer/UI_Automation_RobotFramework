@@ -7,7 +7,7 @@ Author: M Gurubasava
 Library    SeleniumLibrary
 Library    ../utils/setup_and_teardown.py
 Library    ../page_objects/login_page.py
-Library    DataDriver    C:\ProgramData\Jenkins\.jenkins\workspace\UI_Automation_RobotFramework_Pipeline\test_data    Sheet1
+Library    DataDriver    C:\ProgramData\Jenkins\.jenkins\workspace\UI_Automation_RobotFramework_Pipeline\test_data\login_page_data.xlsx    Sheet1
 
 Resource    ../resource/login_page_keywords.robot
 Variables    ../test_data/test_case_data.yaml
